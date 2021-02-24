@@ -5,3 +5,9 @@ Fleet.java is the only code that needs to be manually compiled and ran. It will 
 
 Fleet.java will read a textfile, classify the data within it, and create a searchable database that keeps its data private through data hiding and getter/setter methods.
 
+In order to see how it works:
+
+javac Fleet.java
+java Fleet
+*What is the name of the textfile?*
+VDB.txt
